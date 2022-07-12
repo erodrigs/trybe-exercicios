@@ -1,4 +1,5 @@
-<h1>Trybe Exercises</h1>
+![trybe](https://user-images.githubusercontent.com/94024193/178415023-b2a14602-7d60-4c68-aa0c-c01c363e6876.jpeg)
+
 
 > Status: Continous development ⚠️
 
