@@ -2,7 +2,13 @@
 
 > Status: Continous development ⚠️
 
-### In this repository, I'm adding the exercises developed during the Trybe Web Development course
+### In this repository, I'm adding the exercises developed during the Trybe Web Development Formation
+
+## About Trybe
+
+Trybe is a programming school that teaches you how to program, study and work, using modern concepts and methodologies, and with the difference that the student can choose to pay for the course only after completing the training.
+
+Learn more about Trybe at: https://www.betrybe.com/?utm_medium=cpc&utm_source=google&utm_campaign=Brand&utm_content=ad03_din_h&gclid=Cj0KCQjwlK-WBhDjARIsAO2sErQIjRKrye2xoD_9k7HTYdv8npjISoTU7ebLSGtZ_4rtS2wXEjIUyzgaAswlEALw_wcB
 
 ## The Trybe course is divided into four modules, namely:
 
