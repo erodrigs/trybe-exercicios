@@ -2,7 +2,7 @@
 
 > Status: Continous development ⚠️
 
-### In this repository, I will add the exercises developed during the Trybe Web Development course
+### In this repository, I'm adding the exercises developed during the Trybe Web Development course
 
 ## The Trybe course is divided into four modules, namely:
 
