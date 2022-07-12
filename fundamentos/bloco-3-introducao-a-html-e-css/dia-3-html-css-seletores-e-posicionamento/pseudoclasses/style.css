@@ -1,0 +1,49 @@
+div {
+    color: white;
+}
+div:hover {
+    border: 5px solid rgb(191, 17, 207);
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+    font-size: 50px;
+}
+
+#black {
+    background-color: black;
+}
+
+#yellow {
+    background-color: yellow;
+    color: black;
+}
+
+#primeiro-h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#segundo-h3 {
+    font-size: large;
+    font-weight: 700;
+}
+
+#terceiro-h3 {
+    border: 10px solid yellow;
+}
+
+#quarto-h3 {
+    color: aqua;
+}
+
+#quinto-h3 {
+    border: 20px solid blue;
+}
