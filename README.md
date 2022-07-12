@@ -19,16 +19,34 @@ I am currently studying at the end of module 2, which deals with technologies re
 
 So far, we have studied several technologies used in software development, and among them I can highlight:
 
-+ UNIX
-+ Bash
-+ ShellScript
-+ Markdown
-+ Git
-+ Github
-+ HTML5
-+ CSS3
-+ JavaScript
-+ React
-+ Redux
+<table>
+  <tr>
+    <td>Unix</td>
+    <td>Bash</td>
+    <td>ShellScript</td>
+    <td>Markdown</td>
+    <td>Git</td>
+    <td>Github</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>JavaScript</td>
+    <td>React</td>
+    <td>Redux</td>
+  </tr>
+  <tr>
+    <td>*</td>
+    <td>*</td>
+    <td>*</td>
+    <td>*</td>
+    <td>*</td>
+    <td>*</td>
+    <td>5</td>
+    <td>3</td>
+    <td>ES6</td>
+    <td>18</td>
+    <td>16</td>    
+  </tr>
+</table>
+
 
 
